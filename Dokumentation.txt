@@ -1,0 +1,20 @@
+Was wird benötigt (Installationsbefehle für Ubuntu):
+midori - Browser: sudo apt-get install midori
+NodeJs : sudo apt-get install nodejs
+NPM : sudo apt-get install npm
+dnsmasq : sudo apt-get install dnsmasq
+NowJs : npm install now
+
+Warum midori - Browser: er kann im Fullscreen modus geöffnet werden (-e Fullscreen) See: https://wiki.xfce.org/midori/faq
+
+Wozu DNSMasq ? Für DHCP und DNS Funktionalitäten: http://serverfault.com/questions/396958/configure-dns-server-to-return-same-ip-for-all-domains
+
+Now-Doku/Download: https://github.com/Flotype/now
+
+Quellen: 
+========
+-HTML5+Snake - Tutorial: http://thecodeplayer.com/walkthrough/html5-game-tutorial-make-a-snake-game-using-html5-canvas-jquery
+
+-NowJS-Tutorial: http://www.adityaravishankar.com/2011/10/nowjs-node-js-tutorial-creating-multi-room-chat-server/
+
+TODO: auf Express umsteigen: https://github.com/visionmedia/express
